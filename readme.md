@@ -1,0 +1,1 @@
+Proyecto para utilizar el tablero digital Kanban propuesto por Mermaid.
